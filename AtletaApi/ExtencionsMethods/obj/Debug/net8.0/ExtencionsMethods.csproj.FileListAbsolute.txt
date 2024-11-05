@@ -1,0 +1,14 @@
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\bin\Debug\net8.0\ExtencionsMethods.exe
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\bin\Debug\net8.0\ExtencionsMethods.deps.json
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\bin\Debug\net8.0\ExtencionsMethods.runtimeconfig.json
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\bin\Debug\net8.0\ExtencionsMethods.dll
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\bin\Debug\net8.0\ExtencionsMethods.pdb
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\ExtencionsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\ExtencionsMethods.AssemblyInfoInputs.cache
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\ExtencionsMethods.AssemblyInfo.cs
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\ExtencionsMethods.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\ExtencionsMethods.dll
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\refint\ExtencionsMethods.dll
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\ExtencionsMethods.pdb
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\ExtencionsMethods.genruntimeconfig.cache
+C:\Users\Thomas\OneDrive\Documentos\Dev\3Periodo\FullStack\AtletaApi\ExtencionsMethods\obj\Debug\net8.0\ref\ExtencionsMethods.dll
